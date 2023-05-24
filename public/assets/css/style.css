@@ -1,0 +1,28 @@
+body {
+  font-family: 'Dancing Script', cursive;
+  background-image: url('../img/gagadiy.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+  text-align: center;
+  font-size: 60px;
+  font-weight: 700;
+  color: aliceblue;
+  text-shadow: 5px 5px 2px rgb(0, 0, 0);
+}
+
+#video {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  
+}
+
+#iconinsta {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+
+}
